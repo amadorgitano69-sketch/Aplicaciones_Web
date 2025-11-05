@@ -1,0 +1,20 @@
+        .fondo {  
+            background: linear-gradient(200deg, #cb5cffff, #00ffddff); /* Azul y verde */
+            font-family: Arial, sans-serif;s
+            justify-content: center
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+            
+        }
+        .alinear-centro {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column; 
+            height: 50vh;
+        }
+        .boton {
+            margin-top: 15px;
+        }
