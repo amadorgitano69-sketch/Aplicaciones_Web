@@ -5,3 +5,4 @@ Marcos:$2y$10$kwcD8QjzGrQcnTkZSxAshep6msLz7h6idqK5w/DgiJSzhp1v9yZt2
 Marcos:$2y$10$65nE.5tvbLE8bb70elw2W.j/jUHAwR08x97cakwJ3PfStu6UYQXJm
 Usuario1:$2y$10$vZG23vjEcvij.9IB.uvuie6VQ3UdZe6zHNxlaTOyBQ8C57YOI.aM2
 Pepe:$2y$10$6gpxvmUY9yMcPyBSYurbY.ZGFTCKtUyIZAKdCnrG3ZJg2XalHg4da
+Jose:$2y$10$5YIOFTPnc.N8DfbM9iCP3eD6bHbArdc.bljxmCz7DV7gHlRSGneHe

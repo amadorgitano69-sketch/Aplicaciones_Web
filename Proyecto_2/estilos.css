@@ -1,0 +1,76 @@
+.body1 {
+  margin: 0;
+  background-color: #000000;
+  background-image: 
+      radial-gradient(hwb(212 0% 0% / 0.459) 10px, transparent 1px),
+      radial-gradient(#0057da 10px, transparent 1px);
+  background-size: 40px 40px, 80px 80px;
+  background-position: 0 0, 20px 20px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.body2 {
+  margin: 0;
+  background-color: #000000;
+  background-image: 
+      radial-gradient(hwb(0 0% 0% / 0.459) 10px, transparent 1px),
+      radial-gradient(#da3e00 10px, transparent 1px);
+  background-size: 40px 40px, 80px 80px;
+  background-position: 0 0, 20px 20px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.body3 {
+  margin: 0;
+  background-color: #000000;
+  background-image: 
+      radial-gradient(hwb(123 0% 22% / 0.459) 10px, transparent 1px),
+      radial-gradient(#1ca800 10px, transparent 1px);
+  background-size: 40px 40px, 80px 80px;
+  background-position: 0 0, 20px 20px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+button {
+  margin-top: 10px;
+  width: 100%;
+  padding: 10px;
+  background-color: rgb(0, 110, 255);
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+}
+button:hover {
+  background-color: rgb(0, 89, 206);
+}
+
+input {
+    border-radius: 6px;
+}
+.recuadro {
+    border: 2px solid #000;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+a {
+  color: #0057da;
+  text-decoration: none;
+}

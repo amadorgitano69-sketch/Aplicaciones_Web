@@ -17,7 +17,18 @@ if ($login_exitoso) {
  header("Location: bienvenida.php");
  exit;
 } else {
- echo "<h1>Usuario o contraseña incorrectos</h1>";
- echo "<p><a href='login.php'>Volver a intentar</a></p>";
 }
 ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Procesar Login</title>
+    <link rel="stylesheet" href="estilo_registro.css">
+</head>
+<body>
+<h1>Usuario o contraseña incorrectos</h1>
+<p><a href='login.php'>Volver a intentar</a></p>
+</body>
+</html>
