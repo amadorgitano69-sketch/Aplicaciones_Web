@@ -1,0 +1,86 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background-color: #89bbf5; /* Color de fondo suave */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 5;
+}
+
+.cuadro1 {
+    background-color: white;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 350px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 5px;
+    color: #000000;
+}
+
+
+/* Contenedor de los botones (el cuadro de botones) */
+.button-group {
+    display: flex;
+    border-radius: 8px;
+    overflow: hidden; /* Corta las esquinas para que se vean redondeadas */
+    border: 1px solid #ddd;
+}
+
+/* Estilo común para ambos botones */
+.btn {
+    flex: 1; /* Hace que ambos midan lo mismo */
+    padding: 12px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+/* Botón izquierdo (Iniciar Sesión) */
+.login-btn {
+    background-color: #2072dd;
+    color: white;
+}
+
+.login-btn:hover {
+    background-color: #488aee;
+}
+
+/* Botón derecho (Registrarse) */
+.register-btn {
+    background-color: #eeeeee;
+    color: #555;
+}
+
+.register-btn:hover {
+    background-color: #e0e0e0;
+}
+
+label {
+    font-weight: bold;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+button {
+    padding: 12px;
+    font-weight: bold;
+    font-size: 14px;
+    background-color: #2072dd;
+    border-radius: 8px;
+}
+
+.cuadro-list {
+    background-color: white;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    text-align: center;
+    width: 500px;
+}
